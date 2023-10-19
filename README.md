@@ -5,7 +5,8 @@ Messaging application created for a class project with a team of three component
 This part started from a [template.html][html] and [template.css][css] files, that allowed us to build the page in React more efficiently and faster. Than all functions from backend have been implemented to provide all messagging functinalities.
 
 ## Backend
-Different routes allow authentication, data modelling and user functionalities: searching friend by nickname, add or remove friend, posting messages, open chat.
+Different routes allow [authentication][aut], data modelling and user functionalities: searching friend by nickname, add or remove friend, posting messages, open chat.
 
-[html] : <https://github.com/whiteOFF/Messaging-App/blob/main/frontend/src/pages/template.html>
-[css] : <https://github.com/whiteOFF/Messaging-App/blob/main/frontend/src/pages/template.css>
+[html]: <https://github.com/whiteOFF/Messaging-App/blob/main/frontend/src/pages/template.html>
+[css]: <https://github.com/whiteOFF/Messaging-App/blob/main/frontend/src/pages/template.css>
+[aut]: <https://github.com/whiteOFF/Messaging-App/blob/main/backend/routes/auth.route.js>
